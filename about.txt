@@ -1,0 +1,6 @@
+we have removed react scripts as we dont need the app - no longer an app
+We want to use this story book file as a component so it can be used in a react app
+npm uninstall --save react-scripts
+npx sb init
+npm install --save-dev storybook-css-modules-preset
+npm i --save @storybook/addon-postcss
